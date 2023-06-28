@@ -1,0 +1,15 @@
+# ninja log v5
+1	1963	7091760567706995	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+1965	2188	7091760569898364	Assembler.exe	3afa237d0ff6cd1c
+2	1702	7092945241516923	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+1703	1940	7092945243861014	Assembler.exe	3afa237d0ff6cd1c
+2	1236	7092994316566595	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+1237	1449	7092994318606265	Assembler.exe	3afa237d0ff6cd1c
+3	911	7092994785417897	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+912	1028	7092994786514202	Assembler.exe	3afa237d0ff6cd1c
+2	656	7093034490932066	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+656	734	7093034491712036	Assembler.exe	3afa237d0ff6cd1c
+2	642	7093036927369601	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+643	713	7093036928006321	Assembler.exe	3afa237d0ff6cd1c
+3	667	7093039250536116	CMakeFiles/Assembler.dir/main.c.obj	808eb9a5a9c4303d
+668	750	7093039251280978	Assembler.exe	3afa237d0ff6cd1c
